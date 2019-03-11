@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_bldsgr"
+                android:icon="@drawable/ic_whatshot_black_24dp"
+                android:title="Blood Sugar"/>
+        <item
+                android:id="@+id/nav_bldprsr"
+                android:icon="@drawable/ic_whatshot_black_24dp"
+                android:title="Blood Pressure"/>
+        <item
+                android:id="@+id/nav_rbc"
+                android:icon="@drawable/ic_whatshot_black_24dp"
+                android:title="Red Blood Count"/>
+        <item
+                android:id="@+id/nav_tbc"
+                android:icon="@drawable/ic_whatshot_black_24dp"
+                android:title="Total Blood Count"/>
+        <item
+                android:id="@+id/nav_vdc"
+                android:icon="@drawable/ic_whatshot_black_24dp"
+                android:title="Vitamin D Count"/>
+        <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_whatshot_black_24dp"
+                android:title="Log Out"/>
+    </group>
+
+
+
+</menu>

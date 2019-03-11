@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Blood Test Tracker</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_blood_sugar">Blood Sugar</string>
+    <string name="title_activity_blood_pressure">BloodPressureActivity</string>
+    <string name="title_activity_total_blood_count">TotalBloodCount</string>
+    <string name="title_activity_red_blood_count">RedBloodCount</string>
+    <string name="title_activity_vitamin_dcount">VitaminDCount</string>
+</resources>
